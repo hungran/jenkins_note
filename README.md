@@ -28,7 +28,7 @@
 
 # Paramater in Jenkins's project
 
-<img src="/picture/parameter.jpg">
+<img src="/picture/parameter.JPG">
 
 - Build with Parameter
 
