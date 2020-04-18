@@ -18,3 +18,7 @@
 - Download recommend plugins
 
     <img src="/picture/initial-setup.jpg">
+
+- Setup User
+    
+    <img src="/picture/setup-user.jpg">
