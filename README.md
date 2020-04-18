@@ -14,7 +14,7 @@
 ---
 # Initial Setup
 
-- Using [docker-compose]($./share/docker-compose.yml) file for creating Jenkins container 
+- Using [docker-compose](/share/docker-compose.yml) file for creating Jenkins container 
 - Download recommend plugins
 
     <img src="/picture/initial-setup.jpg">
@@ -22,3 +22,16 @@
 - Setup User
     
     <img src="/picture/setup-user.jpg">
+
+- Create first hell-world job
+    <imgs src="/picture/first-hello-world-job.JPG">
+
+# Paramater in Jenkins's project
+
+    <img src="/picture/parameter.jpg">
+
+- Build with Parameter
+
+    <img src="/picture/build-with-parameter.JPG">
+
+    <img src="/picture/build-with-parameter2.JPG">
