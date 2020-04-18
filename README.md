@@ -24,6 +24,7 @@
     <img src="/picture/setup-user.jpg">
 
 - Create first hell-world job
+    
     <imgs src="/picture/first-hello-world-job.JPG">
 
 # Paramater in Jenkins's project
