@@ -31,8 +31,11 @@
 
 <img src="/picture/parameter.JPG">
 
-- Build with Parameter
+- Build with Parameter (String & Boolean)
 
     <img src="/picture/build-with-parameter.JPG">
 
     <img src="/picture/build-with-parameter2.JPG">
+
+## Docker + Jenkins + SSH
+[Link](./Docker_Jenkins_ssh.md)

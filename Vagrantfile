@@ -2,7 +2,7 @@ Vagrant.configure("2") do |config|
   config.vm.box = "hung"
   # Using rsync by cygwin64 instead SMB share
   config.vm.allowed_synced_folder_types = [:rsync]	
-  config.vm.synced_folder "./share", "/$HOME/$USER/jenkins"
+  config.vm.synced_folder "./share", "/home/ubuntu/jenkins-data"
   config.vm.provider :aws do |aws, override|
     aws.access_key_id = File.read("access_key.txt")
     aws.secret_access_key = File.read("secret_access_key.txt")
